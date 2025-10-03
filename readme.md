@@ -1,2 +1,1 @@
- bading
- paradero bayot
+ # Hi im a newbie
